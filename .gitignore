@@ -1,0 +1,3 @@
+build*
+src/mlpack/core/util/gitversion.hpp
+src/mlpack/core/util/arma_config.hpp
