@@ -1,7 +1,7 @@
 cc=g++
 PROJECT_ROOT=/home/jasper/mlpack-2.2.3
 CFLAGS:= -std=c++11 -Wall -fPIC -O2
-C_INC:= /home/jasper/mlpack-2.2.3/build
+C_INC:= /home/jasper/Mlpack/build
 
 
 Test.out:Test.o
